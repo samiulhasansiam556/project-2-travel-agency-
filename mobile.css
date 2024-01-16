@@ -1,0 +1,119 @@
+
+body{
+  background-color: #ffffff;
+
+}
+
+.nav{
+  
+    flex-direction: column;
+    height: 60px;
+    
+   
+
+}
+.nav .nav1{
+
+   margin-top: 20px;
+   margin-left: 10px;
+}
+
+.nav .nav2{
+  background-color: rgb(255, 255, 255);
+  margin-top: 20px;
+
+}
+
+.nav2 ul li a{
+   
+    margin: 5px;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+
+}
+
+.clear{
+    clear: both;
+}
+
+.intro{
+  
+  margin-top: 90px;
+
+}
+
+.intro1{
+  width: 100%;
+}
+
+.intro2{
+  width: 80%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  height: 300px;
+}
+
+.chose1{
+  
+  flex-direction: column;
+  height: 960px;
+  justify-content: space-around;
+}
+
+.chose11{
+  width: 95%;
+  height: 300px;
+  border: 1px solid rgb(255, 255, 255);
+  display: flex;
+  
+}
+
+.event1{
+   flex-direction: column;
+   height: 850px;
+   align-items: center;
+   justify-content: space-around;
+
+}
+
+.event11{
+  width: 90%;
+}
+  
+.event1:hover{
+  background-color: black;
+}
+
+.event2{
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 3000px;
+  
+}
+
+.event22{
+  width: 100%;
+
+}
+
+.about{
+  flex-direction: column;
+  height: 1000px;
+}
+
+.about2{
+   width: 100%;
+
+}
+
+.about1{
+  width:100%;
+  padding: 8px;
+}
+
+
+.event0{
+  margin-top: 220px;
+  margin-left: 20px;
+  font-family:  sans-serif;
+}
